@@ -39,9 +39,7 @@ Together, these components provide a **complete, end-to-end machine learning sol
   - Prints the predicted result for new input data.  
   - Helps verify if the trained model performs correctly before deployment.  
 
----
-
-### ** Key Benefits**  
+### **Key Benefits**  
 
 **End-to-End Automation** – No need for manual coding; everything from EDA to model training is automated.  
 **User-Friendly Interface** – Built with Streamlit, providing an intuitive web-based UI.  
